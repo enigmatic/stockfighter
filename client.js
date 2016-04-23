@@ -1,3 +1,6 @@
-import 'API' from 'stockfighter'
+'use strict';
 
-return new API({ apiKey: 'xxx' });
+var API = require('stockfighter');
+//import 'API' from 'stockfighter'
+
+module.exports = new API({ apiKey: '' });
