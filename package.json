@@ -1,0 +1,22 @@
+{
+  "name": "mcnigma-stockfighter",
+  "version": "0.1.1",
+  "description": "Code for playing stockfighter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/enigmatic/stockfighter.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/enigmatic/stockfighter/issues"
+  },
+  "homepage": "https://github.com/enigmatic/stockfighter",
+  "dependencies": {
+    "stockfighter": "^0.0.4"
+  }
+}
